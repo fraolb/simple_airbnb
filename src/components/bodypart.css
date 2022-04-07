@@ -1,0 +1,21 @@
+div{
+    padding: 10px;
+}
+
+.bodypart{
+    display: flex;
+    flex-direction: column;
+
+}
+.bodypart-img{
+    max-width: 500px;
+    align-self: center;
+}
+
+.bodypart-h1{
+    margin-bottom: 26px;
+
+}
+.bodypart-p{
+    margin-top: 0;
+}
