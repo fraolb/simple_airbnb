@@ -1,0 +1,15 @@
+.card{
+    width: 275px;
+    font-size: 12px;
+    padding: 0;
+}
+.card-img{
+    width: 200px;
+    border-radius: 9px;
+}
+.gray{
+    color: #918E9B;
+}
+.card-p{
+    font-weight: bold;
+}
